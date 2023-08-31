@@ -1,4 +1,4 @@
-### 👋 Hey! Nice to see you.
+## 👋 Hey! Nice to see you.
 Welcome to my page!
 I'm passionate about software development and have just successfully completed the intensive "Fullstack Developer" bootcamp at Henry. My immediate goal is to immerse myself in a development environment that allows me to apply my newly acquired knowledge and continue growing as a professional.
 If you're looking for someone who is passionate, dedicated, and ready to dive into exciting projects, I would be delighted to speak with you. I'm ready to contribute and learn in a stimulating development environment!
