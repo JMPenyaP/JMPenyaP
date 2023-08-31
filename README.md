@@ -1,8 +1,16 @@
-## 👋 Hey! Nice to see you.
+# 👋 Hey! Nice to see you.
 Welcome to my page!
 I'm passionate about software development and have just successfully completed the intensive "Fullstack Developer" bootcamp at Henry. My immediate goal is to immerse myself in a development environment that allows me to apply my newly acquired knowledge and continue growing as a professional.
 If you're looking for someone who is passionate, dedicated, and ready to dive into exciting projects, I would be delighted to speak with you. I'm ready to contribute and learn in a stimulating development environment!
 Thank you for considering my profile!
+<div align="left">
+<a href="https://github.com/jmpenyap" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/chemape" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div> 
 
 ### Languages and Tools:  
 <div align="center">  
@@ -26,18 +34,7 @@ Thank you for considering my profile!
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="25" /></a>  
 </div>
 
-### Where to find me:
-<div align="center">
-<a href="https://github.com/jmpenyap" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/chemape" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-<br/>  
-
-## Github Stats  
+### Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jmpenyap&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>
